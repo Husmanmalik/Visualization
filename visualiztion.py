@@ -8,6 +8,7 @@ import plotly.express as px
 # step 1:
 df=pd.read_csv('data_set.csv')
 st.title("Covid-19 Cases Data Visualization")
+df=df.drop(columns=Unnamed: 0)
 st.write(df.sample(10))
 
 # step 2

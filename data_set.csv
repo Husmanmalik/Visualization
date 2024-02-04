@@ -1,0 +1,1157 @@
+,Date,Cases,Deaths,Recovered,Travel_history,Province,City
+0,2/26/2020,1,0,0,China,Islamabad Capital Territory,Islamabad
+1,2/26/2020,2,0,0,Iran/Taftan,Sindh,Karachi
+2,2/29/2020,1,0,0,China,Islamabad Capital Territory,Islamabad
+3,2/29/2020,1,0,0,Iran/Taftan,Sindh,Karachi
+4,3/2/2020,1,0,0,Iran/Taftan,Gilgit-Baltistan,Gilgit
+5,3/6/2020,0,0,1,Unknown,Sindh,Karachi
+6,3/7/2020,1,0,0,Iran/Taftan,Sindh,Karachi
+7,3/9/2020,6,0,0,Syria,Sindh,Karachi
+8,3/9/2020,3,0,0,UK,Sindh,Karachi
+9,3/10/2020,1,0,0,Iran/Taftan,Sindh,Karachi
+10,3/10/2020,1,0,0,Syria,Sindh,Hyderabad
+11,3/10/2020,1,0,0,Iran/Taftan,Baluchistan,Quetta
+12,3/11/2020,1,0,0,Iran/Taftan,Gilgit-Baltistan,Skardu
+13,3/11/2020,0,0,1,Iran/Taftan,Sindh,Karachi
+14,3/12/2020,1,0,0,Local - Social Contact,Gilgit-Baltistan,Gilgit
+15,3/13/2020,1,0,0,USA,Islamabad Capital Territory,Islamabad
+16,3/13/2020,1,0,1,Local - Social Contact,Sindh,Karachi
+17,3/13/2020,7,0,0,Iran/Taftan,Baluchistan,Taftan
+18,3/15/2020,13,0,0,Iran/Taftan,Sindh,Sukkur
+19,3/15/2020,4,0,0,Iran/Taftan,Sindh,Karachi
+20,3/15/2020,1,0,0,UK,Punjab,Lahore
+21,3/15/2020,15,0,0,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+22,3/15/2020,1,1,0,Unknown,Khyber Pakhtunkhwa,Mardan
+23,3/16/2020,119,0,0,Iran/Taftan,Sindh,Sukkur
+24,3/16/2020,26,0,0,Iran/Taftan,Sindh,Karachi
+25,3/16/2020,2,0,0,Iran/Taftan,Sindh,Hyderabad
+26,3/16/2020,1,0,0,Unknown,Punjab,Lahore
+27,3/16/2020,1,0,1,Unknown,Islamabad Capital Territory,Islamabad
+28,3/16/2020,1,0,0,Unknown,khyber Pakhtunkhwa,Mansehra
+29,3/16/2020,1,0,0,Unknown,Khyber Pakhtunkhwa,Mardan
+30,3/17/2020,15,0,0,Iran/Taftan,Punjab,Dera Ghazi Khan
+31,3/17/2020,24,0,0,Iran/Taftan,Sindh,Sukkur
+32,3/17/2020,5,0,0,KSA,Sindh,Karachi
+33,3/17/2020,3,0,0,Unknown,Punjab,Lahore
+34,3/17/2020,1,0,0,Unknown,khyber Pakhtunkhwa,Peshawar
+35,3/17/2020,1,0,0,UK,Khyber Pakhtunkhwa,Charsadda
+36,3/17/2020,2,0,0,Iran/Taftan,Baluchistan,Quetta
+37,3/17/2020,1,0,0,Unknown,Islamabad Capital Territory,Islamabad
+38,3/18/2020,2,0,0,Unknown,Islamabad Capital Territory,Islamabad
+39,3/18/2020,5,0,0,Iran/Taftan,Punjab,Dera Ghazi Khan
+40,3/18/2020,31,0,0,Iran/Taftan,Sindh,Sukkur
+41,3/18/2020,5,0,0,Local - Social Contact,Sindh,Karachi
+42,3/18/2020,10,0,0,Unknown,Gilgit-Baltistan,Gilgit
+43,3/18/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+44,3/18/2020,1,1,0,KSA,Khyber Pakhtunkhwa,Mardan 
+45,3/18/2020,1,1,0,Unknown,Khyber Pakhtunkhwa,Hangu 
+46,3/18/2020,1,0,0,Iran/Taftan,Azad Jummu Kashmir,Mirpur
+47,3/19/2020,1,0,0,Local - Social Contact,Punjab,Multan
+48,3/19/2020,8,0,0,Unknown,Punjab,Lahore
+49,3/19/2020,44,0,0,Iran/Taftan,Punjab,Dera Ghazi Khan
+50,3/19/2020,37,0,1,Local - Social Contact,Sindh,Karachi
+51,3/19/2020,53,0,0,Iran/Taftan,Baluchistan,Quetta
+52,3/19/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+53,3/19/2020,1,0,0,Local - Covid Relative,Khyber Pakhtunkhwa,Dera Ismail Khan
+54,3/19/2020,4,0,0,Unknown,Gilgit-Baltistan,Gilgit
+55,3/19/2020,4,0,0,Unknown,Gilgit-Baltistan,Nagar
+56,3/20/2020,5,0,0,Unknown,Baluchistan,Quetta
+57,3/20/2020,4,1,0,Local - Social Contact,Sindh,Karachi
+58,3/20/2020,1,0,0,Unknown,Khyber Pakhtunkhwa,Mansehra
+59,3/20/2020,1,0,0,Unknown,Federal Administration Tribal Area,Khyber
+60,3/20/2020,1,0,0,Local - Social Contact,Punjab,Rawalpindi
+61,3/20/2020,1,0,0,Local - Social Contact,Punjab,Jehlum
+62,3/20/2020,3,0,0,Local - Social Contact,Punjab,Gujrat 
+63,3/20/2020,2,0,0,Unknown,Punjab,Lahore
+64,3/20/2020,7,0,0,Iran/Taftan,Punjab,Dera Ghazi Khan
+65,3/20/2020,1,0,0,Local - Social Contact,Gilgit-Baltistan,Nagar
+66,3/20/2020,8,0,0,Iran/Taftan,Gilgit-Baltistan,Gilgit
+67,3/20/2020,16,0,0,Local - Social Contact,Sindh,Karachi
+68,3/21/2020,3,0,0,Unknown,Islamabad Capital Territory,Islamabad
+69,3/21/2020,12,0,0,Iran/Taftan,Baluchistan,Quetta
+70,3/21/2020,39,0,0,Iran/Taftan,Sindh,Sukkur
+71,3/21/2020,0,0,3,Local - Social Contact,Sindh,Karachi
+72,3/21/2020,25,0,0,Iran/Taftan,Gilgit-Baltistan,Skardu
+73,3/21/2020,6,0,0,Unknown,Punjab,Lahore
+74,3/21/2020,38,0,0,Iran/Taftan,Punjab,Dera Ghazi Khan
+75,3/21/2020,1,0,0,Local - Social Contact,Punjab,Jehlum
+76,3/21/2020,4,0,0,Local - Social Contact,Punjab,Gujranwala
+77,3/21/2020,1,0,0,Iran/Taftan,Khyber Pakhtunkhwa,Peshawar
+78,3/21/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+79,3/21/2020,2,0,0,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+80,3/21/2020,1,0,0,Iran/Taftan,Khyber Pakhtunkhwa,Mardan
+81,3/21/2020,1,0,0,Iran/Taftan,Khyber Pakhtunkhwa,Karak
+82,3/22/2020,4,0,0,Local - Social Contact,Gilgit-Baltistan,Nagar
+83,3/22/2020,18,0,0,Local - Social Contact,Sindh,Karachi
+84,3/22/2020,23,0,0,Iran/Taftan,Sindh,Sukkur
+85,3/22/2020,1,0,0,Unknown,Islamabad Capital Territory,Islamabad
+86,3/22/2020,15,0,0,Unknown,Punjab,Lahore
+87,3/22/2020,1,0,0,Local - Social Contact,Punjab,Jehlum
+88,3/22/2020,1,0,0,Local - Social Contact,Punjab,Rawalpindi
+89,3/22/2020,43,0,0,Iran/Taftan,Punjab,Dera Ghazi Khan
+90,3/22/2020,4,1,0,Unknown,Baluchistan,Quetta
+91,3/23/2020,7,0,0,Local - Social Contact,Sindh,Karachi
+92,3/23/2020,11,0,0,Iran/Taftan,Sindh,Sukkur
+93,3/23/2020,1,0,0,Iran/Taftan,Sindh,Dadu
+94,3/23/2020,5,0,0,Iran/Taftan,Baluchistan,Taftan
+95,3/23/2020,16,1,0,Iran/Taftan,Gilgit-Baltistan,Skardu
+96,3/23/2020,25,0,0,Iran/Taftan,Punjab,Dera Ghazi Khan
+97,3/23/2020,16,0,0,Local - Social Contact,Punjab,Lahore
+98,3/23/2020,1,0,0,Unknown,Khyber Pakhtunkhwa,Mansehra
+99,3/24/2020,8,0,6,Local - Social Contact,Sindh,Karachi
+100,3/24/2020,8,0,0,Iran/Taftan,Sindh,Sukkur
+101,3/24/2020,3,0,10,Local - Social Contact,Sindh,Karachi
+102,3/24/2020,5,0,0,Local - Social Contact,Gilgit-Baltistan,Gilgit
+103,3/24/2020,37,0,0,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+104,3/24/2020,1,0,0,Iran/Taftan,Federal Administration Tribal Area,South Waziristan
+105,3/24/2020,2,0,0,Unknown,Khyber Pakhtunkhwa,Peshawar
+106,3/24/2020,2,0,0,Unknown,Baluchistan,Quetta
+107,3/24/2020,7,0,0,Local - Social Contact,Punjab,Lahore
+108,3/24/2020,1,0,0,Local - Social Contact,Punjab,Multan
+109,3/24/2020,9,0,0,Local - Social Contact,Punjab,Gujrat 
+110,3/24/2020,3,0,0,Local - Social Contact,Punjab,Gujranwala
+111,3/24/2020,1,0,0,Local - Social Contact,Punjab,Sargodha
+112,3/24/2020,1,0,0,Local - Social Contact,Punjab,Faisalabad
+113,3/24/2020,1,0,0,Local - Social Contact,Punjab,Mandi Bahauddin
+114,3/24/2020,1,0,0,Local - Social Contact,Punjab,Rahim yar khan
+115,3/24/2020,3,0,0,Local - Social Contact,Sindh,Karachi
+116,3/24/2020,21,1,2,Iran/Taftan,Punjab,Dera Ghazi Khan
+117,3/25/2020,5,0,0,International Passenger,Islamabad Capital Territory,Islamabad
+118,3/25/2020,3,0,0,Local - Social Contact,Sindh,Karachi
+119,3/25/2020,0,0,1,Local - Social Contact,Sindh,Hyderabad
+120,3/25/2020,9,0,0,Local - Social Contact,Baluchistan,Quetta
+121,3/25/2020,1,0,0,Unknown,Gilgit-Baltistan,Astore
+122,3/25/2020,39,0,2,Unknown,Khyber Pakhtunkhwa,Mardan
+123,3/25/2020,1,0,0,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+124,3/25/2020,1,0,0,Unknown,Khyber Pakhtunkhwa,Swabi
+125,3/25/2020,9,0,0,Local - Social Contact,Punjab,Gujrat
+126,3/25/2020,1,0,0,Local - Social Contact,Punjab,Gujranwala
+127,3/25/2020,2,1,0,Iran/Taftan,Punjab,Dera Ghazi Khan
+128,3/25/2020,18,0,1,Unknown,Punjab,Lahore
+129,3/25/2020,1,0,0,Local - Social Contact,Punjab,Multan
+130,3/25/2020,12,0,0,Iran/Taftan,Baluchistan,Quetta
+131,3/25/2020,7,0,0,Unknown,Gilgit-Baltistan,Kharmang
+132,3/25/2020,1,0,0,Dubai,Gilgit-Baltistan,Kharmang
+133,3/26/2020,2,0,0,Unknown,Khyber Pakhtunkhwa,Dir Upper
+134,3/26/2020,1,0,0,Unknown,Khyber Pakhtunkhwa,Swat
+135,3/26/2020,1,0,0,Unknown,Azad Jummu Kashmir,Mirpur
+136,3/26/2020,5,0,0,Unknown,Islamabad Capital Territory,Islamabad
+137,3/26/2020,9,0,0,Local - Social Contact,Sindh,Karachi
+138,3/26/2020,6,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+139,3/26/2020,12,0,0,Iran/Taftan,Baluchistan,Quetta
+140,3/26/2020,7,0,2,Unknown,Gilgit-Baltistan,Skardu
+141,3/26/2020,26,0,1,Unknown,Punjab,Lahore
+142,3/26/2020,16,0,0,Iran/Taftan,Punjab,Multan
+143,3/26/2020,1,0,0,Local - Social Contact,Punjab,Gujrat
+144,3/26/2020,16,0,0,Local - Social Contact,Punjab,Jehlum
+145,3/26/2020,12,0,0,Local - Social Contact,Punjab,Rawalpindi
+146,3/26/2020,2,0,0,Local - Social Contact,Punjab,Faisalabad
+147,3/26/2020,2,0,0,Local - Social Contact,Punjab,Mandi Bahauddin
+148,3/26/2020,2,0,0,Local - Social Contact,Punjab,Mianwali
+149,3/26/2020,1,0,0,Local - Social Contact,Punjab,Narowal
+150,3/26/2020,1,0,0,Local - Social Contact,Punjab,Nankana
+151,3/26/2020,1,0,0,Local - Social Contact,Punjab,Attock
+152,3/26/2020,1,0,0,Local - Social Contact,Punjab,Bahawal Nagar
+153,3/26/2020,7,1,0,Iran/Taftan,Punjab,Dera Ghazi Khan
+154,3/27/2020,2,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+155,3/27/2020,11,0,1,Unknown,Gilgit-Baltistan,Shigar
+156,3/27/2020,5,0,0,Unknown,Gilgit-Baltistan,Gilgit
+157,3/27/2020,7,0,0,Iran/Taftan,Sindh,Larkana
+158,3/27/2020,4,0,1,Local - Social Contact,Sindh,Karachi
+159,3/27/2020,7,0,0,Unknown,Khyber Pakhtunkhwa,Peshawar
+160,3/27/2020,2,0,0,Unknown,Khyber Pakhtunkhwa,Swat
+161,3/27/2020,3,0,0,Unknown,Khyber Pakhtunkhwa,Swabi
+162,3/27/2020,1,0,0,Unknown,Khyber Pakhtunkhwa,Shangla
+163,3/27/2020,3,0,0,Unknown,Khyber Pakhtunkhwa,Nowshera
+164,3/27/2020,1,0,0,Iran/Taftan,Khyber Pakhtunkhwa,Orakzai
+165,3/27/2020,34,0,0,Unknown,Khyber Pakhtunkhwa,Mardan
+166,3/27/2020,3,0,0,Unknown,Khyber Pakhtunkhwa,Malakand
+167,3/27/2020,2,0,0,Unknown,Khyber Pakhtunkhwa,Mansehra
+168,3/27/2020,3,0,0,Unknown,Khyber Pakhtunkhwa,Kohat
+169,3/27/2020,2,0,0,Local - Social Contact,Punjab,Lahore
+170,3/27/2020,2,0,0,Local - Social Contact,Punjab,Faisalabad
+171,3/27/2020,30,2,1,Iran/Taftan,Punjab,Multan
+172,3/27/2020,0,0,2,Unknown,Baluchistan,Quetta
+173,3/28/2020,1,0,0,Local - Social Contact,Punjab,Khushab
+174,3/28/2020,1,1,0,Unknown,Khyber Pakhtunkhwa,Dera Ismail Khan
+175,3/28/2020,1,0,0,Unknown,Khyber Pakhtunkhwa,Charsadda
+176,3/28/2020,4,0,0,Unknown,Khyber Pakhtunkhwa,Buner
+177,3/28/2020,1,0,0,Local - Social Contact,Punjab,Nankana
+178,3/28/2020,1,0,0,Local - Social Contact,Punjab,Mandi Bahauddin
+179,3/28/2020,2,0,0,Local - Social Contact,Punjab,Sargodha
+180,3/28/2020,1,0,0,Local - Social Contact,Punjab,Vehari
+181,3/28/2020,26,0,0,Iran/Taftan,Punjab,Multan
+182,3/28/2020,14,0,0,Local - Social Contact,Punjab,Lahore
+183,3/28/2020,4,0,0,Local - Social Contact,Punjab,Faisalabad
+184,3/28/2020,10,0,0,Local - Social Contact,Punjab,Gujranwala
+185,3/28/2020,5,0,0,Local - Social Contact,Punjab,Rawalpindi
+186,3/28/2020,2,0,0,Local - Social Contact,Punjab,Jehlum
+187,3/28/2020,29,0,0,Local - Social Contact,Punjab,Gujrat
+188,3/28/2020,5,0,0,Local - Social Contact,Punjab,Dera Ghazi Khan
+189,3/28/2020,21,0,0,Iran/Taftan,Punjab,Raiwind
+190,3/28/2020,12,0,0,International Passenger,Islamabad Capital Territory,Islamabad
+191,3/28/2020,25,1,0,Local - Social Contact,Sindh,Karachi
+192,3/28/2020,4,0,0,Local - Social Contact,Sindh,Hyderabad
+193,3/28/2020,5,0,0,Local - Social Contact,Baluchistan,Quetta
+194,3/28/2020,8,0,1,Local - Social Contact,Gilgit-Baltistan,Nagar
+195,3/28/2020,1,0,0,Unknown,Khyber Pakhtunkhwa,Dir Lower
+196,3/28/2020,1,0,0,Unknown,Khyber Pakhtunkhwa,Abbottabad
+197,3/29/2020,4,0,1,Local - Social Contact,Islamabad Capital Territory,Islamabad
+198,3/29/2020,0,0,3,Local - Social Contact,Punjab,Lahore
+199,3/29/2020,1,0,0,Local - Social Contact,Punjab,Vehari
+200,3/29/2020,1,0,0,Local - Social Contact,Punjab,Bahawalpur
+201,3/29/2020,3,0,0,Local - Social Contact,Punjab,Gujrat
+202,3/29/2020,7,0,0,Local - Social Contact,Punjab,Jehlum
+203,3/29/2020,1,0,0,Local - Social Contact,Punjab,Gujranwala
+204,3/29/2020,11,0,0,Local - Social Contact,Punjab,Rawalpindi
+205,3/29/2020,5,0,0,Iran/Taftan,Punjab,Raiwind
+206,3/29/2020,1,1,0,Local - Social Contact,Punjab,Rahim Yar Khan
+207,3/29/2020,4,0,0,Unknown,Azad Jummu Kashmir,Muzaffarabad
+208,3/29/2020,33,2,3,Local - Social Contact,Sindh,Karachi
+209,3/29/2020,0,1,0,Local - Social Contact,Gilgit-Baltistan,Nagar
+210,3/29/2020,5,0,0,Unknown,Gilgit-Baltistan,Shigar
+211,3/29/2020,2,0,0,Iran/Taftan,Gilgit-Baltistan,Kharmang
+212,3/29/2020,3,0,0,Local - Social Contact,Gilgit-Baltistan,Astore
+213,3/29/2020,2,0,0,Unknown,Gilgit-Baltistan,Ghanche
+214,3/29/2020,1,1,0,Unknown,Khyber Pakhtunkhwa,Abbottabad
+215,3/29/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+216,3/29/2020,1,1,0,Unknown,Khyber Pakhtunkhwa,Dir Lower
+217,3/30/2020,8,0,1,Local - Social Contact,Islamabad Capital Territory,Islamabad
+218,3/30/2020,11,0,1,Local - Social Contact,Punjab,Nankana
+219,3/30/2020,14,0,0,Unknown,Punjab,Lahore
+220,3/30/2020,8,0,0,Local - Social Contact,Punjab,Gujrat
+221,3/30/2020,26,0,1,Iran/Taftan,Punjab,Raiwind
+222,3/30/2020,21,4,2,Local - Social Contact,Sindh,Karachi
+223,3/30/2020,6,0,23,Local - Social Contact,Sindh,Sukkur
+224,3/30/2020,6,0,0,Local - Social Contact,Baluchistan,Quetta
+225,3/30/2020,18,0,4,Unknown,Gilgit-Baltistan,Nagar
+226,3/30/2020,1,0,0,Local - Social Contact,Federal Administration Tribal Area,Bajaur
+227,3/30/2020,3,0,0,Iran/Taftan,Khyber Pakhtunkhwa,Peshawar
+228,3/30/2020,1,0,0,Unknown,Khyber Pakhtunkhwa,Bannu
+229,3/30/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dera Ismail Khan
+230,3/30/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+231,3/30/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+232,3/30/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+233,3/30/2020,16,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+234,3/31/2020,7,0,0,Unknown,Islamabad Capital Territory,Islamabad
+235,3/31/2020,0,3,0,Iran/Taftan,Punjab,Dera Ghazi Khan
+236,3/31/2020,14,0,0,Local - Social Contact,Punjab,Rawalpindi
+237,3/31/2020,1,0,0,Local - Social Contact,Punjab,Mianwali
+238,3/31/2020,1,0,0,Local - Social Contact,Punjab,Rahim Yar Khan
+239,3/31/2020,5,0,0,Local - Social Contact,Punjab,Hafizabad
+240,3/31/2020,1,0,0,Local - Social Contact,Punjab,Kasur
+241,3/31/2020,1,0,0,Local - Social Contact,Punjab,Laiya
+242,3/31/2020,16,0,0,Local - Social Contact,Sindh,Hyderabad
+243,3/31/2020,0,0,10,Iran/Taftan,Sindh,Sukkur
+244,3/31/2020,94,0,0,Tableeghi Jamaat,Sindh,Hyderabad
+245,3/31/2020,1,0,0,Local - Social Contact,Sindh,Jacobabad
+246,3/31/2020,14,0,17,Iran/Taftan,Baluchistan,Quetta
+247,3/31/2020,37,0,0,Unknown,Gilgit-Baltistan,Nagar
+248,3/31/2020,0,0,0,Unknown,Khyber Pakhtunkhwa,Peshawar
+249,3/31/2020,1,0,0,Local - Social Contact,Federal Administration Tribal Area,Bajaur
+250,3/31/2020,3,0,0,Unknown,Khyber Pakhtunkhwa,Dera Ismail Khan
+251,3/31/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Haripur
+252,3/31/2020,10,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+253,3/31/2020,1,0,5,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+254,3/31/2020,1,0,0,Iran/Taftan,Federal Administration Tribal Area,Kurrum
+255,3/31/2020,4,1,10,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+256,3/31/2020,10,0,0,Unknown,Khyber Pakhtunkhwa,Peshawar
+257,4/1/2020,13,0,0,International Passenger,Islamabad Capital Territory,Islamabad
+258,4/1/2020,2,0,0,Unknown,Azad Jummu Kashmir,Bhambore 
+259,4/1/2020,1,0,0,Unknown,Azad Jummu Kashmir,Trarkhel
+260,4/1/2020,1,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+261,4/1/2020,1,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+262,4/1/2020,0,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+263,4/1/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+264,4/1/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+265,4/1/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Haripur
+266,4/1/2020,1,0,0,Local - Social Contact,Federal Administration Tribal Area,Khyber
+267,4/1/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+268,4/1/2020,2,0,0,Local - Social Contact,Federal Administration Tribal Area,Kurrum
+269,4/1/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+270,4/1/2020,7,0,10,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+271,4/1/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Orakzai
+272,4/1/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Tank
+273,4/1/2020,1,0,0,Local - Social Contact,Federal Administration Tribal Area,South Waziristan
+274,4/1/2020,33,1,3,Local - Social Contact,Sindh,Karachi
+275,4/1/2020,2,0,0,Local - Social Contact,Punjab,Lodhran
+276,4/1/2020,48,0,0,Local - Social Contact,Punjab,Lahore
+277,4/1/2020,7,1,0,Local - Social Contact,Punjab,Rawalpindi
+278,4/1/2020,6,0,0,Local - Social Contact,Baluchistan,Quetta
+279,4/1/2020,28,0,0,Local - Social Contact,Punjab,Gujrat
+280,4/1/2020,2,0,0,Local - Social Contact,Punjab,Gujranwala
+281,4/1/2020,1,0,0,Local - Social Contact,Punjab,Narowal
+282,4/1/2020,8,0,0,Local - Social Contact,Punjab,Sargodha
+283,4/1/2020,1,0,0,Local - Social Contact,Punjab,Sialkot
+284,4/1/2020,2,0,0,Local - Social Contact,Punjab,Bahawal Nagar
+285,4/1/2020,16,0,0,Iran/Taftan,Punjab,Multan
+286,4/1/2020,63,0,0,Iran/Taftan,Punjab,Raiwind
+287,4/2/2020,27,0,0,Tableeghi Jamaat,Punjab,Raiwind
+288,4/1/2020,3,0,0,Iran/Taftan,Punjab,Faisalabad
+289,4/2/2020,3,1,0,Unknown,Gilgit-Baltistan,Astore
+290,4/2/2020,32,1,9,Local - Social Contact,Sindh,Karachi
+291,4/2/2020,0,1,0,Tableeghi Jamaat,Sindh,Hyderabad
+292,4/2/2020,0,0,2,Iran/Taftan,Sindh,Sukkur
+293,4/2/2020,21,1,0,Unknown,Punjab,Lahore
+294,4/2/2020,4,0,0,Unknown,Islamabad Capital Territory,Islamabad
+295,4/2/2020,5,0,0,Local - Social Contact,Baluchistan,Quetta
+296,4/2/2020,1,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+297,4/2/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+298,4/2/2020,5,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+299,4/2/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+300,4/2/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Hangu
+301,4/2/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Karak
+302,4/2/2020,6,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+303,4/2/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+304,4/2/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+305,4/2/2020,17,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+306,4/2/2020,1,0,3,Local - Social Contact,Khyber Pakhtunkhwa,Swabi
+307,4/2/2020,1,0,0,Local - Social Contact,Punjab,Gujranwala
+308,4/2/2020,2,0,0,Local - Social Contact,Punjab,Rawalpindi
+309,4/2/2020,10,0,0,Local - Social Contact,Punjab,Mandi Bahauddin
+310,4/2/2020,6,0,0,Local - Social Contact,Punjab,Vehari
+311,4/2/2020,6,0,0,Iran/Taftan,Punjab,Dera Ghazi Khan
+312,4/2/2020,27,0,0,Iran/Taftan,Punjab,Raiwind
+313,4/2/2020,2,0,0,Iran/Taftan,Punjab,Faisalabad
+314,4/3/2020,1,0,1,Unknown,Gilgit-Baltistan,Shigar
+315,4/3/2020,1,0,0,Unknown,Gilgit-Baltistan,Nagar
+316,4/3/2020,1,0,0,Unknown,Gilgit-Baltistan,Astore
+317,4/3/2020,6,0,0,Unknown,Islamabad Capital Territory,Islamabad
+318,4/3/2020,40,3,0,Local - Social Contact,Sindh,Karachi
+319,4/3/2020,4,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+320,4/3/2020,6,0,0,Unknown,Baluchistan,Quetta
+321,4/3/2020,6,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+322,4/3/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+323,4/3/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+324,4/3/2020,8,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Hangu
+325,4/3/2020,2,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+326,4/3/2020,10,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+327,4/3/2020,11,0,0,Local - Social Contact,Punjab,Lahore
+328,4/3/2020,5,0,0,Local - Social Contact,Punjab,Gujrat
+329,4/3/2020,1,0,0,Local - Social Contact,Punjab,Jehlum
+330,4/3/2020,1,0,0,Local - Social Contact,Punjab,Gujranwala
+331,4/3/2020,2,0,0,Local - Social Contact,Punjab,Rawalpindi
+332,4/3/2020,1,0,0,Local - Social Contact,Punjab,Chiniot
+333,4/3/2020,2,0,0,Local - Social Contact,Punjab,Rahim Yar Khan
+334,4/3/2020,1,0,0,Local - Social Contact,Punjab,Sialkot
+335,4/3/2020,11,0,0,Local - Social Contact,Punjab,Vehari
+336,4/3/2020,1,0,0,Local - Social Contact,Punjab,Bahawalpur
+337,4/3/2020,1,0,0,Local - Social Contact,Punjab,Sheikhupura
+338,4/3/2020,12,0,0,Tableeghi Jamaat,Punjab,Dera Ghazi Khan
+339,4/3/2020,3,0,0,Tableeghi Jamaat,Punjab,Multan
+340,4/3/2020,100,0,0,Tableeghi Jamaat,Punjab,Raiwind
+341,4/4/2020,7,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+342,4/4/2020,6,3,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+343,4/4/2020,30,1,0,Local - Social Contact,Punjab,Lahore
+344,4/4/2020,4,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+345,4/4/2020,4,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+346,4/4/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dera Ismail Khan
+347,4/4/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+348,4/4/2020,3,0,0,Local - Social Contact,Federal Administration Tribal Area,Khyber
+349,4/4/2020,4,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Lakki Marwat
+350,4/4/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+351,4/4/2020,2,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Shangla
+352,4/4/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Torghar
+353,4/4/2020,0,0,12,Local - Social Contact,Sindh,Karachi
+354,4/4/2020,10,0,0,Unknown,Baluchistan,Quetta
+355,4/4/2020,0,0,3,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+356,4/4/2020,3,0,0,Unknown,Azad Jummu Kashmir,Muzaffarabad
+357,4/4/2020,0,0,5,Unknown,Gilgit-Baltistan,Skardu
+358,4/4/2020,0,0,9,Unknown,Gilgit-Baltistan,Nagar
+359,4/4/2020,0,0,3,Unknown,Gilgit-Baltistan,Ghanche
+360,4/5/2020,3,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+361,4/5/2020,4,2,0,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+362,4/5/2020,7,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+363,4/5/2020,6,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+364,4/5/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Orakzai
+365,4/5/2020,5,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+366,4/5/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+367,4/5/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+368,4/5/2020,0,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+369,4/5/2020,4,0,4,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+370,4/5/2020,3,0,9,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+371,4/5/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Malakand
+372,4/5/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+373,4/5/2020,1,0,0,Local - Social Contact,Federal Administration Tribal Area,Bajaur
+374,4/5/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+375,4/5/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Haripur
+376,4/5/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Karak
+377,4/5/2020,0,0,1,Local - Social Contact,Federal Administration Tribal Area,Kurrum
+378,4/5/2020,0,0,1,Local - Social Contact,Federal Administration Tribal Area,South Waziristan
+379,4/5/2020,41,1,0,Local - Social Contact,Sindh,Karachi
+380,4/5/2020,2,0,0,Local - Social Contact,Azad Jummu Kashmir,Mirpur
+381,4/5/2020,6,0,13,Unknown,Baluchistan,Quetta
+382,4/5/2020,17,0,7,Tableeghi Jamaat,Gilgit-Baltistan,Gilgit
+383,4/5/2020,31,0,0,Local - Social Contact,Punjab,Lahore
+384,4/5/2020,0,0,0,Local - Social Contact,Punjab,Faisalabad
+385,4/5/2020,47,0,0,Iran/Taftan,Punjab,Raiwind
+386,4/5/2020,0,0,2,Iran/Taftan,Gilgit-Baltistan,Kharmang
+387,4/5/2020,0,0,1,Dubai,Gilgit-Baltistan,Kharmang
+388,4/6/2020,51,2,0,Local - Social Contact,Sindh,Karachi
+389,4/6/2020,0,0,130,Iran/Taftan,Sindh,Sukkur
+390,4/6/2020,3,0,31,Local - Social Contact,Baluchistan,Quetta
+391,4/6/2020,20,3,0,Local - Social Contact,Punjab,Lahore
+392,4/6/2020,77,0,0,Jail,Punjab,Lahore
+393,4/6/2020,1,0,0,Local - Social Contact,Gilgit-Baltistan,Gilgit
+394,4/6/2020,0,0,11,Local - Social Contact,Gilgit-Baltistan,Shigar
+395,4/6/2020,1,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+396,4/6/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+397,4/6/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+398,4/6/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+399,4/6/2020,4,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+400,4/6/2020,3,0,0,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+401,4/6/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dera Ismail Khan
+402,4/6/2020,6,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+403,4/6/2020,14,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+404,4/6/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Karak
+405,4/6/2020,1,0,0,Local - Social Contact,Federal Administration Tribal Area,Khyber
+406,4/6/2020,15,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+407,4/6/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+408,4/6/2020,9,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+409,4/6/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mohmand
+410,4/6/2020,24,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+411,4/6/2020,2,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Swabi
+412,4/6/2020,7,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+413,4/6/2020,3,0,0,Local - Social Contact,Federal Administration Tribal Area,North Waziristan
+414,4/7/2020,1,1,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+415,4/7/2020,0,0,0,Tableeghi Jamaat,Punjab,Raiwind
+416,4/7/2020,54,1,16,Local - Social Contact,Sindh,Karachi
+417,4/7/2020,11,0,27,Local - Social Contact,Sindh,Karachi
+418,4/7/2020,12,0,3,Local - Social Contact,Baluchistan,Quetta
+419,4/7/2020,0,0,28,Local - Social Contact,Gilgit-Baltistan,Skardu
+420,4/7/2020,1,0,2,Local - Social Contact,Gilgit-Baltistan,Kharmang
+421,4/7/2020,0,0,1,Iran/Taftan,Khyber Pakhtunkhwa,Peshawar
+422,4/7/2020,7,1,4,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+423,4/7/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+424,4/7/2020,1,0,0,Local - Social Contact,Federal Administration Tribal Area,Bajaur
+425,4/7/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+426,4/7/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+427,4/7/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+428,4/7/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Karak
+429,4/7/2020,1,0,0,Local - Social Contact,Federal Administration Tribal Area,Khyber
+430,4/7/2020,0,0,1,Local - Social Contact,Federal Administration Tribal Area,Kurrum
+431,4/7/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Orakzai
+432,4/7/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Shangla
+433,4/7/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+434,4/7/2020,3,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+435,4/8/2020,49,2,0,Local - Social Contact,Punjab,Lahore
+436,4/8/2020,2,0,0,Local - Social Contact,Punjab,Multan
+437,4/8/2020,3,0,0,Local - Social Contact,Punjab,Gujrat
+438,4/8/2020,1,0,0,Local - Social Contact,Punjab,Jehlum
+439,4/8/2020,15,0,0,Local - Social Contact,Punjab,Gujranwala
+440,4/8/2020,8,0,0,Local - Social Contact,Punjab,Rawalpindi
+441,4/8/2020,12,0,0,Local - Social Contact,Punjab,Faisalabad
+442,4/8/2020,7,0,0,Local - Social Contact,Punjab,Chiniot
+443,4/8/2020,1,0,0,Local - Social Contact,Punjab,Mandi Bahauddin
+444,4/8/2020,7,0,0,Local - Social Contact,Punjab,Mianwali
+445,4/8/2020,4,0,0,Local - Social Contact,Punjab,Narowal
+446,4/8/2020,0,0,2,Local - Social Contact,Punjab,Rahim Yar Khan
+447,4/8/2020,0,0,4,Local - Social Contact,Punjab,Sargodha
+448,4/8/2020,17,0,0,Local - Social Contact,Punjab,Sialkot
+449,4/8/2020,6,0,0,Local - Social Contact,Punjab,Bahawal Nagar
+450,4/8/2020,13,0,0,Local - Social Contact,Punjab,Dera Ghazi Khan
+451,4/8/2020,1,0,0,Local - Social Contact,Punjab,Hafizabad
+452,4/8/2020,0,0,6,Local - Social Contact,Punjab,Vehari
+453,4/8/2020,1,0,0,Local - Social Contact,Punjab,Okara
+454,4/8/2020,1,0,0,Local - Social Contact,Punjab,Bahawalpur
+455,4/8/2020,8,0,0,Local - Social Contact,Punjab,Kasur
+456,4/8/2020,1,0,0,Local - Social Contact,Punjab,Lodhran
+457,4/8/2020,2,0,0,Local - Social Contact,Punjab,Toba Tek Singh
+458,4/8/2020,50,1,1,Local - Social Contact,Sindh,Karachi
+459,4/8/2020,6,0,0,Local - Social Contact,Sindh,Larkana
+460,4/8/2020,2,0,0,Local - Social Contact,Sindh,Jamshoro
+461,4/8/2020,1,0,0,Local - Social Contact,Sindh,Badin
+462,4/8/2020,7,0,0,Local - Social Contact,Sindh,Shaheed Benazirabad
+463,4/8/2020,4,0,0,Local - Social Contact,Sindh,Naushero Feroz
+464,4/8/2020,1,0,0,Local - Social Contact,Sindh,Shujawal
+465,4/8/2020,1,0,0,Local - Social Contact,Sindh,Sanghar
+466,4/8/2020,12,0,0,Local - Social Contact,Sindh,Tando M. Khan
+467,4/8/2020,2,0,0,Local - Social Contact,Sindh,Ghotki
+468,4/8/2020,42,1,0,Tableeghi Jamaat,Sindh,Hyderabad
+469,4/8/2020,0,0,18,Iran/Taftan,Sindh,Sukkur
+470,4/8/2020,8,1,10,Local - Social Contact,Baluchistan,Quetta
+471,4/8/2020,1,0,20,Local - Social Contact,Gilgit-Baltistan,Nagar
+472,4/8/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+473,4/8/2020,0,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Shangla
+474,4/8/2020,2,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+475,4/8/2020,12,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+476,4/8/2020,3,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+477,4/8/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+478,4/8/2020,2,0,0,Local - Social Contact,Federal Administration Tribal Area,Khyber
+479,4/8/2020,4,0,0,Local - Social Contact,Federal Administration Tribal Area,Kurrum
+480,4/8/2020,5,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+481,4/8/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Torghar
+482,4/8/2020,0,0,48,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+483,4/8/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+484,4/8/2020,10,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+485,4/9/2020,35,0,7,Local - Social Contact,Islamabad Capital Territory,Islamabad
+486,4/9/2020,0,0,5,Iran/Taftan,Punjab,Dera Ghazi Khan
+487,4/9/2020,213,1,0,Tableeghi Jamaat,Punjab,Raiwind
+488,4/9/2020,18,0,0,Tableeghi Jamaat,Punjab,Faisalabad
+489,4/9/2020,366,0,0,Tableeghi Jamaat,Punjab,Multan
+490,4/10/2020,12,0,0,Jail,Punjab,Lahore
+491,4/9/2020,0,0,18,Local - Social Contact,Sindh,Sukkur
+492,4/9/2020,92,1,0,Unknown,Sindh,Karachi
+493,4/9/2020,0,0,69,Iran/Taftan,Sindh,Sukkur
+494,4/9/2020,7,0,0,Local - Social Contact,Baluchistan,Quetta
+495,4/9/2020,2,0,0,Local - Social Contact,Gilgit-Baltistan,Kharmang
+496,4/9/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+497,4/9/2020,6,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+498,4/9/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+499,4/9/2020,10,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+500,4/9/2020,4,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Hangu
+501,4/9/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Haripur
+502,4/9/2020,6,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+503,4/9/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+504,4/9/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Orakzai
+505,4/9/2020,15,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+506,4/9/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Shangla
+507,4/9/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Swabi
+508,4/9/2020,7,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+509,4/9/2020,1,0,0,Local - Social Contact,Federal Administration Tribal Area,North Waziristan
+510,4/9/2020,5,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+511,4/9/2020,23,0,0,Local - Social Contact,Punjab,Lahore
+512,4/9/2020,1,0,0,Local - Social Contact,Punjab,Gujrat
+513,4/9/2020,0,0,1,Local - Social Contact,Punjab,Jehlum
+514,4/9/2020,0,0,1,Local - Social Contact,Punjab,Gujranwala
+515,4/9/2020,1,0,0,Local - Social Contact,Punjab,Rawalpindi
+516,4/9/2020,4,0,0,Local - Social Contact,Punjab,Chakwal
+517,4/9/2020,6,0,0,Local - Social Contact,Punjab,Faisalabad
+518,4/9/2020,0,0,7,Local - Social Contact,Punjab,Mandi Bahauddin
+519,4/9/2020,0,0,1,Local - Social Contact,Punjab,Mianwali
+520,4/9/2020,2,0,0,Local - Social Contact,Punjab,Narowal
+521,4/9/2020,17,0,0,Local - Social Contact,Punjab,Rahim Yar Khan
+522,4/9/2020,2,0,0,Local - Social Contact,Punjab,Sargodha
+523,4/9/2020,1,0,0,Local - Social Contact,Punjab,Jhang
+524,4/9/2020,8,0,0,Local - Social Contact,Punjab,Sialkot
+525,4/9/2020,0,0,4,Local - Social Contact,Punjab,Bahawal Nagar
+526,4/9/2020,6,0,0,Local - Social Contact,Punjab,Hafizabad
+527,4/9/2020,2,0,0,Local - Social Contact,Punjab,Khushab
+528,4/9/2020,2,0,0,Local - Social Contact,Punjab,Bahawalpur
+529,4/9/2020,2,0,0,Local - Social Contact,Punjab,Sheikhupura
+530,4/10/2020,85,1,9,Local - Social Contact,Sindh,Karachi
+531,4/10/2020,1,0,0,Local - Social Contact,Sindh,Shaheed Benazirabad
+532,4/10/2020,1,0,13,Local - Social Contact,Baluchistan,Quetta
+533,4/10/2020,0,0,14,Local - Social Contact,Gilgit-Baltistan,Nagar
+534,4/10/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+535,4/10/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+536,4/10/2020,3,0,3,Local - Social Contact,Federal Administration Tribal Area,Bajaur
+537,4/10/2020,5,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+538,4/10/2020,4,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+539,4/10/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+540,4/10/2020,0,1,0,Tableeghi Jamaat,Khyber Pakhtunkhwa,Dir Lower
+541,4/10/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+542,4/10/2020,1,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Hangu
+543,4/10/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Haripur
+544,4/10/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Karak
+545,4/10/2020,2,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+546,4/10/2020,2,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Malakand
+547,4/10/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+548,4/10/2020,8,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+549,4/10/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Swabi
+550,4/10/2020,2,1,2,Tableeghi Jamaat,Khyber Pakhtunkhwa,Swat
+551,4/10/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Tank
+552,4/10/2020,0,0,2,Iran/Taftan,Khyber Pakhtunkhwa,Dera Ismail Khan
+553,4/10/2020,0,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+554,4/10/2020,10,0,0,Local - Social Contact,Punjab,Lahore
+555,4/10/2020,1,0,0,Local - Social Contact,Punjab,Faisalabad
+556,4/10/2020,0,0,5,Local - Social Contact,Punjab,Nankana
+557,4/10/2020,7,0,0,Local - Social Contact,Punjab,Sheikhupura
+558,4/11/2020,1,0,10,Local - Social Contact,Gilgit-Baltistan,Gilgit
+559,4/11/2020,0,0,11,Local - Social Contact,Gilgit-Baltistan,Nagar
+560,4/11/2020,1,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+561,4/11/2020,8,0,6,Local - Social Contact,Baluchistan,Quetta
+562,4/11/2020,5,4,1,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+563,4/11/2020,5,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+564,4/11/2020,3,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+565,4/11/2020,1,0,4,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+566,4/11/2020,5,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+567,4/11/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+568,4/11/2020,6,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+569,4/11/2020,6,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+570,4/11/2020,5,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+571,4/11/2020,4,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Shangla
+572,4/11/2020,2,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+573,4/11/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Dera Ismail Khan
+574,4/11/2020,84,6,0,Local - Social Contact,Sindh,Karachi
+575,4/11/2020,3,0,0,Local - Social Contact,Sindh,Larkana
+576,4/11/2020,17,0,0,Local - Social Contact,Sindh,Hyderabad
+577,4/11/2020,29,3,0,Local - Social Contact,Punjab,Lahore
+578,4/11/2020,1,0,0,Tableeghi Jamaat,Punjab,Dera Ghazi Khan
+579,4/11/2020,30,0,0,Local - Social Contact,Punjab,Gujrat
+580,4/11/2020,7,0,0,Tableeghi Jamaat,Punjab,Raiwind
+581,4/11/2020,5,0,0,Local - Social Contact,Punjab,Rawalpindi
+582,4/11/2020,3,0,0,Local - Social Contact,Punjab,Nankana
+583,4/11/2020,16,0,0,Local - Social Contact,Punjab,Laiya
+584,4/11/2020,0,0,2,Local - Social Contact,Punjab,Jehlum
+585,4/11/2020,47,0,0,Unknown,Punjab,Bhakhar
+586,4/12/2020,1,0,3,Local - Social Contact,Islamabad Capital Territory,Islamabad
+587,4/12/2020,79,2,18,Unknown,Sindh,Karachi
+588,4/12/2020,14,0,0,Unknown,Sindh,Khairpur
+589,4/12/2020,9,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+590,4/12/2020,2,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+591,4/12/2020,0,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Swabi
+592,4/12/2020,6,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+593,4/12/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+594,4/12/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Hangu
+595,4/12/2020,4,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Karak
+596,4/12/2020,4,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+597,4/12/2020,2,0,0,Local - Social Contact,Federal Administration Tribal Area,Kurrum
+598,4/12/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Malakand
+599,4/12/2020,10,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+600,4/12/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+601,4/12/2020,2,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+602,4/12/2020,1,0,0,Local - Social Contact,Federal Administration Tribal Area,South Waziristan
+603,4/12/2020,0,0,2,Local - Social Contact,Federal Administration Tribal Area,North Waziristan
+604,4/12/2020,8,0,0,Local - Social Contact,Baluchistan,Quetta
+605,4/12/2020,6,0,1,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+606,4/12/2020,32,2,25,Local - Social Contact,Punjab,Lahore
+607,4/12/2020,19,0,0,Local - Social Contact,Punjab,Multan
+608,4/12/2020,0,0,175,Local - Social Contact,Punjab,Dera Ghazi Khan
+609,4/12/2020,6,0,0,Local - Social Contact,Punjab,Gujrat
+610,4/12/2020,2,0,0,Local - Social Contact,Punjab,Rawalpindi
+611,4/12/2020,3,0,0,Local - Social Contact,Punjab,Faisalabad
+612,4/12/2020,19,0,0,Local - Social Contact,Punjab,Rahim Yar Khan
+613,4/12/2020,6,0,0,Local - Social Contact,Punjab,Vehari
+614,4/12/2020,1,0,0,Local - Social Contact,Punjab,Khushab
+615,4/12/2020,1,0,0,Local - Social Contact,Punjab,Bahawalpur
+616,4/13/2020,12,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+617,4/12/2020,9,0,0,Jail,Punjab,Lahore
+618,4/13/2020,0,1,0,Unknown,Punjab,Lahore
+619,4/13/2020,0,0,233,Tableeghi Jamaat,Punjab,Dera Ghazi Khan
+620,4/13/2020,60,0,0,Local - Social Contact,Punjab,Multan
+621,4/13/2020,39,1,30,Unknown,Sindh,Karachi
+622,4/13/2020,1,0,0,Local - Social Contact,Sindh,Sujawal
+623,4/13/2020,1,0,0,Local - Social Contact,Sindh,Sanghar
+624,4/13/2020,0,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+625,4/13/2020,1,1,1,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+626,4/13/2020,5,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+627,4/13/2020,3,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+628,4/13/2020,9,0,0,Local - Social Contact,Federal Administration Tribal Area,Kurrum
+629,4/13/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Malakand
+630,4/13/2020,1,0,0,Local - Social Contact,Federal Administration Tribal Area,Mohmand
+631,4/13/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+632,4/13/2020,31,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+633,4/13/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+634,4/13/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Swabi
+635,4/13/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Lakki Marwat
+636,4/13/2020,0,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+637,4/13/2020,0,0,1,Local - Social Contact,Federal Administration Tribal Area,Bajaur
+638,4/13/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+639,4/13/2020,3,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+640,4/13/2020,1,0,0,Local - Social Contact,Baluchistan,Quetta
+641,4/14/2020,10,0,6,Local - Social Contact,Gilgit-Baltistan,Shigar
+642,4/14/2020,0,0,5,Local - Social Contact,Gilgit-Baltistan,Kharmang
+643,4/14/2020,0,0,11,Local - Social Contact,Gilgit-Baltistan,Skardu
+644,4/14/2020,0,0,2,Local - Social Contact,Gilgit-Baltistan,Ghanche
+645,4/14/2020,17,0,0,Local - Social Contact,Baluchistan,Quetta
+646,4/14/2020,66,3,0,Local - Social Contact,Sindh,Karachi
+647,4/14/2020,0,1,3,Local - Social Contact,Sindh,Hyderabad
+648,4/14/2020,0,0,1,Iran/Taftan,Sindh,Sukkur
+649,4/14/2020,22,3,0,Unknown,Khyber Pakhtunkhwa,Peshawar
+650,4/14/2020,4,0,0,Unknown,Khyber Pakhtunkhwa,Dera Ismail Khan
+651,4/14/2020,5,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+652,4/14/2020,7,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+653,4/14/2020,4,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+654,4/14/2020,11,0,7,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+655,4/14/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Hangu
+656,4/14/2020,1,0,0,Local - Social Contact,Federal Administration Tribal Area,Khyber
+657,4/14/2020,1,0,5,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+658,4/14/2020,4,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+659,4/14/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Shangla
+660,4/14/2020,1,0,0,Local - Social Contact,Federal Administration Tribal Area,North Waziristan
+661,4/14/2020,0,0,3,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+662,4/14/2020,0,0,3,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+663,4/14/2020,0,0,4,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+664,4/14/2020,0,0,3,Local - Social Contact,Khyber Pakhtunkhwa,Haripur
+665,4/14/2020,35,4,0,Unknown,Punjab,Lahore
+666,4/14/2020,45,0,0,Local - Social Contact,Punjab,Multan
+667,4/14/2020,13,0,0,Local - Social Contact,Punjab,Gujrat
+668,4/14/2020,44,0,0,Local - Social Contact,Punjab,Jehlum
+669,4/14/2020,2,0,0,Local - Social Contact,Punjab,Gujranwala
+670,4/14/2020,22,0,0,Local - Social Contact,Punjab,Rawalpindi
+671,4/14/2020,7,0,0,Local - Social Contact,Punjab,Faisalabad
+672,4/14/2020,11,0,0,Local - Social Contact,Punjab,Mandi Bahauddin
+673,4/14/2020,8,0,0,Local - Social Contact,Punjab,Mianwali
+674,4/14/2020,15,0,0,Local - Social Contact,Punjab,Narowal
+675,4/14/2020,5,0,0,Local - Social Contact,Punjab,Rahim Yar Khan
+676,4/14/2020,36,0,0,Local - Social Contact,Punjab,Sargodha
+677,4/14/2020,7,0,0,Local - Social Contact,Punjab,Sahewal
+678,4/14/2020,9,0,0,Local - Social Contact,Punjab,Rajanpur
+679,4/14/2020,22,0,0,Local - Social Contact,Punjab,Sialkot
+680,4/14/2020,5,0,0,Local - Social Contact,Punjab,Bahawal Nagar
+681,4/14/2020,35,0,0,Local - Social Contact,Punjab,Hafizabad
+682,4/14/2020,52,0,0,Local - Social Contact,Punjab,Muzaffargar
+683,4/14/2020,2,0,0,Local - Social Contact,Punjab,Nankana
+684,4/14/2020,47,0,0,Local - Social Contact,Punjab,Vehari
+685,4/14/2020,2,0,0,Local - Social Contact,Punjab,Khushab
+686,4/14/2020,11,0,0,Local - Social Contact,Punjab,Laiya
+687,4/14/2020,2,0,0,Local - Social Contact,Punjab,Khanewal
+688,4/14/2020,8,0,0,Local - Social Contact,Punjab,Sheikhupura
+689,4/14/2020,1,0,0,Local - Social Contact,Punjab,Pakpatan
+690,4/14/2020,14,0,0,Local - Social Contact,Punjab,Bhakhar
+691,4/14/2020,10,0,0,Tableeghi Jamaat,Punjab,Raiwind
+692,4/15/2020,9,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+693,4/15/2020,3,0,0,Unknown,Azad Jummu Kashmir,Muzaffarabad
+694,4/15/2020,0,0,19,Local - Social Contact,Gilgit-Baltistan,Skardu
+695,4/15/2020,3,0,0,Local - Social Contact,Gilgit-Baltistan,Diamer
+696,4/15/2020,2,0,0,Local - Social Contact,Gilgit-Baltistan,Nagar
+697,4/15/2020,6,0,2,Local - Social Contact,Gilgit-Baltistan,Astore
+698,4/15/2020,0,0,1,Local - Social Contact,Gilgit-Baltistan,Nagar
+699,4/15/2020,33,1,13,Unknown,Baluchistan,Quetta
+700,4/15/2020,1,0,0,Local - Social Contact,Sindh,Larkana
+701,4/15/2020,7,0,0,Local - Social Contact,Sindh,Naushero Feroz
+702,4/15/2020,28,0,0,Local - Social Contact,Sindh,Shaheed Benazirabad
+703,4/15/2020,20,0,104,Tableeghi Jamaat,Sindh,Hyderabad
+704,4/15/2020,94,5,27,Local - Social Contact,Sindh,Karachi
+705,4/15/2020,0,1,0,Iran/Taftan,Sindh,Sukkur
+706,4/15/2020,38,4,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+707,4/15/2020,0,0,3,Iran/Taftan,Khyber Pakhtunkhwa,Peshawar
+708,4/15/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+709,4/15/2020,7,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dera Ismail Khan
+710,4/15/2020,1,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+711,4/15/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Orakzai
+712,4/15/2020,1,0,3,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+713,4/15/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+714,4/15/2020,0,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+715,4/15/2020,0,0,1,Local - Social Contact,Federal Administration Tribal Area,Khyber
+716,4/15/2020,0,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+717,4/15/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+718,4/15/2020,20,0,0,Local - Social Contact,Punjab,Rawalpindi
+719,4/15/2020,10,0,0,Local - Social Contact,Punjab,Gujranwala
+720,4/15/2020,0,0,28,Local - Social Contact,Punjab,Lahore
+721,4/15/2020,0,0,1,Local - Social Contact,Punjab,Chakwal
+722,4/15/2020,24,0,0,Local - Social Contact,Punjab,Lahore
+723,4/15/2020,3,0,0,Local - Social Contact,Punjab,Mandi Bahauddin
+724,4/15/2020,1,0,0,Local - Social Contact,Punjab,Jhang
+725,4/15/2020,7,0,0,Local - Social Contact,Punjab,Narowal
+726,4/16/2020,21,0,0,Local - Social Contact,Punjab,Rawalpindi
+727,4/16/2020,10,0,0,Local - Social Contact,Punjab,Gujranwala
+728,4/16/2020,9,0,0,Local - Social Contact,Punjab,Multan
+729,4/16/2020,4,0,0,Local - Social Contact,Punjab,Gujrat
+730,4/16/2020,24,2,59,Local - Social Contact,Baluchistan,Quetta
+731,4/16/2020,5,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+732,4/16/2020,22,2,1,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+733,4/16/2020,1,1,4,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+734,4/16/2020,7,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+735,4/16/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+736,4/16/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+737,4/16/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Haripur
+738,4/16/2020,2,0,3,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+739,4/16/2020,2,0,0,Local - Social Contact,Federal Administration Tribal Area,Kurrum
+740,4/16/2020,4,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Malakand
+741,4/16/2020,5,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+742,4/16/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+743,4/16/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Shangla
+744,4/16/2020,7,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+745,4/16/2020,0,0,1,Local - Social Contact,Federal Administration Tribal Area,Bajaur
+746,4/16/2020,0,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+747,4/16/2020,0,0,3,Local - Social Contact,Khyber Pakhtunkhwa,Lakki Marwat
+748,4/16/2020,8,0,6,Unknown,Gilgit-Baltistan,Gilgit
+749,4/16/2020,0,7,112,Unknown,Punjab,Lahore
+750,4/16/2020,24,0,0,Local - Social Contact,Punjab,Lahore
+751,4/16/2020,8,0,0,Local - Social Contact,Punjab,Faisalabad
+752,4/16/2020,1,0,0,Local - Social Contact,Punjab,Dera Ghazi Khan
+753,4/16/2020,21,0,0,Local - Social Contact,Punjab,Rahim Yar Khan
+754,4/16/2020,86,0,0,Unknown,Punjab,Sargodha
+755,4/16/2020,3,0,0,Local - Social Contact,Punjab,Sialkot
+756,4/16/2020,3,0,0,Local - Social Contact,Punjab,Bahawal Nagar
+757,4/16/2020,48,0,0,Unknown,Punjab,Bahawalpur
+758,4/16/2020,4,0,0,Local - Social Contact,Punjab,Sheikhupura
+759,4/16/2020,1,0,0,Local - Social Contact,Punjab,Bhakhar
+760,4/16/2020,10,0,0,Tableeghi Jamaat,Punjab,Multan
+761,4/16/2020,21,0,0,Local - Social Contact,Punjab,Khushab
+762,4/16/2020,70,4,16,Local - Social Contact,Sindh,Karachi
+763,4/16/2020,1,0,0,Local - Social Contact,Sindh,Hyderabad
+764,4/16/2020,10,0,0,Local - Social Contact,Sindh,Dadu
+765,4/16/2020,3,0,0,Local - Social Contact,Sindh,Shikarpur
+766,4/16/2020,0,0,0,Unknown,Sindh,Khairpur
+767,4/16/2020,52,0,0,Unknown,Sindh,Sukkur
+768,4/16/2020,96,0,0,Unknown,Sindh,Ghotki
+769,4/16/2020,4,0,0,Local - Social Contact,Sindh,Tando Alahyar
+770,4/16/2020,1,0,0,Local - Social Contact,Sindh,Tando M. Khan
+771,4/16/2020,12,0,0,Local - Social Contact,Sindh,Sanghar
+772,4/16/2020,5,0,0,Local - Social Contact,Sindh,Sujawal
+773,4/16/2020,3,0,0,Local - Social Contact,Sindh,Naushero Feroz
+774,4/16/2020,2,0,0,Local - Social Contact,Sindh,Badin
+775,4/16/2020,2,0,0,Local - Social Contact,Sindh,Jamshoro
+776,4/16/2020,53,0,0,Unknown,Sindh,Shaheed Benazirabad
+777,4/17/2020,9,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+778,4/17/2020,123,2,3,Unknown,Sindh,Karachi
+779,4/17/2020,0,0,2,Local - Social Contact,Sindh,Larkana
+780,4/17/2020,1,0,0,Local - Social Contact,Sindh,Badin
+781,4/17/2020,1,0,0,Local - Social Contact,Sindh,Naushero Feroz
+782,4/17/2020,2,0,0,Local - Social Contact,Sindh,Sujawal
+783,4/17/2020,1,0,0,Local - Social Contact,Sindh,Sanghar
+784,4/17/2020,6,0,0,Local - Social Contact,Sindh,Tando M. Khan
+785,4/17/2020,28,0,0,Unknown,Sindh,Ghotki
+786,4/17/2020,73,0,0,Unknown,Sindh,Khairpur
+787,4/17/2020,1,0,0,Local - Social Contact,Sindh,Umerkot
+788,4/17/2020,2,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+789,4/17/2020,5,0,9,Local - Social Contact,Gilgit-Baltistan,Gilgit
+790,4/17/2020,6,0,0,Unknown,Baluchistan,Quetta
+791,4/17/2020,41,0,0,Local - Social Contact,Baluchistan,Quetta
+792,4/17/2020,24,2,0,Local - Social Contact,Punjab,Lahore
+793,4/17/2020,20,0,0,Local - Social Contact,Punjab,Rawalpindi
+794,4/17/2020,10,0,0,Local - Social Contact,Punjab,Gujranwala
+795,4/17/2020,9,0,0,Local - Social Contact,Punjab,Multan
+796,4/17/2020,4,0,0,Local - Social Contact,Punjab,Gujrat
+797,4/17/2020,8,0,0,Local - Social Contact,Punjab,Faisalabad
+798,4/17/2020,20,0,0,Local - Social Contact,Punjab,Rahim Yar Khan
+799,4/17/2020,3,0,0,Local - Social Contact,Punjab,Sialkot
+800,4/17/2020,4,0,0,Local - Social Contact,Punjab,Bahawal Nagar
+801,4/17/2020,95,0,0,Tableeghi Jamaat,Punjab,Multan
+802,4/17/2020,9,0,0,Local - Social Contact,Punjab,Muzaffargar
+803,4/17/2020,2,0,0,Local - Social Contact,Punjab,Nankana
+804,4/17/2020,1,0,0,Local - Social Contact,Punjab,Kasur
+805,4/17/2020,4,0,0,Local - Social Contact,Punjab,Laiya
+806,4/18/2020,9,1,2,Local - Social Contact,Islamabad Capital Territory,Islamabad
+807,4/18/2020,138,1,11,Unknown,Sindh,Karachi
+808,4/18/2020,1,0,0,Local - Social Contact,Sindh,Kambar Shahdadkot
+809,4/18/2020,9,0,0,Local - Social Contact,Sindh,Kashmore
+810,4/18/2020,6,0,0,Local - Social Contact,Sindh,Mirpurkhas
+811,4/18/2020,4,0,0,Local - Social Contact,Sindh,Tharparkar
+812,4/18/2020,0,0,0,Iran/Taftan,Sindh,Sukkur
+813,4/18/2020,43,5,0,Unknown,Khyber Pakhtunkhwa,Peshawar
+814,4/18/2020,41,0,0,Afghanistan,Khyber Pakhtunkhwa,Peshawar
+815,4/18/2020,7,0,1,Local - Social Contact,Gilgit-Baltistan,Gilgit
+816,4/18/2020,8,0,0,Local - Social Contact,Baluchistan,Quetta
+817,4/18/2020,2,0,25,India,Punjab,Lahore
+818,4/18/2020,5,4,0,Local - Social Contact,Punjab,Lahore
+819,4/18/2020,2,0,0,Local - Social Contact,Punjab,Dera Ghazi Khan
+820,4/18/2020,7,0,0,Local - Social Contact,Punjab,Gujrat
+821,4/18/2020,1,0,0,Local - Social Contact,Punjab,Rawalpindi
+822,4/18/2020,1,0,0,Local - Social Contact,Punjab,Chakwal
+823,4/18/2020,1,0,0,Local - Social Contact,Punjab,Attock
+824,4/19/2020,8,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+825,4/19/2020,0,0,29,Tableeghi Jamaat,Punjab,Lahore
+826,4/19/2020,182,8,0,Unknown,Sindh,Karachi
+827,4/19/2020,3,0,0,Local - Social Contact,Sindh,Umerkot
+828,4/19/2020,2,0,0,Local - Social Contact,Sindh,Shikarpur
+829,4/19/2020,10,0,0,Local - Social Contact,Sindh,Jacobabad
+830,4/19/2020,1,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+831,4/19/2020,6,0,1,Local - Social Contact,Gilgit-Baltistan,Gilgit
+832,4/19/2020,60,2,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+833,4/19/2020,0,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+834,4/19/2020,0,1,0,Local - Social Contact,Federal Administration Tribal Area,Mohmand
+835,4/19/2020,0,4,0,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+836,4/19/2020,0,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Malakand
+837,4/19/2020,0,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+838,4/19/2020,0,0,5,Local - Social Contact,Khyber Pakhtunkhwa,Hangu
+839,4/19/2020,0,0,3,Local - Social Contact,Khyber Pakhtunkhwa,Haripur
+840,4/19/2020,0,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+841,4/19/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Lakki Marwat
+842,4/19/2020,0,0,4,Local - Social Contact,Khyber Pakhtunkhwa,Shangla
+843,4/19/2020,0,0,3,Local - Social Contact,Khyber Pakhtunkhwa,Swabi
+844,4/19/2020,0,0,8,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+845,4/19/2020,0,0,15,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+846,4/19/2020,0,0,4,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+847,4/19/2020,56,0,0,Local - Social Contact,Baluchistan,Quetta
+848,4/19/2020,3,0,0,Jail,Punjab,Lahore
+849,4/19/2020,36,0,0,Local - Social Contact,Punjab,Lahore
+850,4/19/2020,3,0,0,Local - Social Contact,Punjab,Multan
+851,4/19/2020,0,0,4,Local - Social Contact,Punjab,Gujrat
+852,4/19/2020,15,0,0,Local - Social Contact,Punjab,Gujranwala
+853,4/19/2020,32,0,0,Local - Social Contact,Punjab,Rawalpindi
+854,4/19/2020,1,0,0,Local - Social Contact,Punjab,Narowal
+855,4/19/2020,2,0,0,Local - Social Contact,Punjab,Rahim Yar Khan
+856,4/19/2020,29,0,0,Local - Social Contact,Punjab,Sargodha
+857,4/19/2020,13,0,0,Local - Social Contact,Punjab,Attock
+858,4/19/2020,1,0,0,Local - Social Contact,Punjab,Sahewal
+859,4/19/2020,23,0,0,Local - Social Contact,Punjab,Sialkot
+860,4/19/2020,0,0,1,Local - Social Contact,Punjab,Hafizabad
+861,4/19/2020,7,0,0,Local - Social Contact,Punjab,Nankana
+862,4/19/2020,0,0,4,Local - Social Contact,Punjab,Bahawalpur
+863,4/19/2020,76,0,0,Local - Social Contact,Punjab,Lodhran
+864,4/19/2020,5,0,0,Local - Social Contact,Punjab,Khanewal
+865,4/19/2020,5,0,0,Local - Social Contact,Punjab,Toba Tek Singh
+866,4/19/2020,3,0,0,Local - Social Contact,Punjab,Sheikhupura
+867,4/19/2020,1,0,0,Local - Social Contact,Punjab,Bhakhar
+868,4/20/2020,33,1,0,Local - Social Contact,Baluchistan,Quetta
+869,4/20/2020,150,5,10,Local - Social Contact,Sindh,Karachi
+870,4/20/2020,57,0,0,Unknown,Sindh,Larkana
+871,4/20/2020,6,0,0,Jail,Sindh,Karachi
+872,4/20/2020,1,0,0,Local - Social Contact,Sindh,Dadu
+873,4/20/2020,18,0,0,Local - Social Contact,Gilgit-Baltistan,Gilgit
+874,4/20/2020,334,1,0,Local - Social Contact,Punjab,Lahore
+875,4/20/2020,98,5,11,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+876,4/20/2020,0,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+877,4/20/2020,0,2,0,Local - Social Contact,Khyber Pakhtunkhwa,Kurrum
+878,4/20/2020,0,2,0,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+879,4/20/2020,0,0,4,Local - Social Contact,Khyber Pakhtunkhwa,Dera Ismail Khan
+880,4/20/2020,0,0,15,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+881,4/20/2020,0,0,17,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+882,4/20/2020,0,0,5,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+883,4/20/2020,10,1,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+884,4/21/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+885,4/21/2020,69,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Karak
+886,4/21/2020,0,0,7,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+887,4/21/2020,0,0,8,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+888,4/21/2020,26,5,2,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+889,4/21/2020,2,0,0,Afghanistan,Khyber Pakhtunkhwa,Peshawar
+890,4/21/2020,4,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+891,4/21/2020,1,0,9,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+892,4/21/2020,1,0,4,Local - Social Contact,Federal Administration Tribal Area,Khyber
+893,4/21/2020,8,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+894,4/21/2020,0,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Swabi
+895,4/21/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+896,4/21/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+897,4/21/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+898,4/21/2020,11,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Malakand
+899,4/21/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+900,4/21/2020,5,0,0,Local - Social Contact,Federal Administration Tribal Area,Kurrum
+901,4/21/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Lakki Marwat
+902,4/21/2020,1,0,0,Local - Social Contact,Federal Administration Tribal Area,North Waziristan
+903,4/21/2020,0,2,0,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+904,4/21/2020,286,5,30,Local - Social Contact,Sindh,Karachi
+905,4/21/2020,217,9,39,Unknown,Punjab,Lahore
+906,4/21/2020,4,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+907,4/21/2020,1,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+908,4/21/2020,2,0,3,Local - Social Contact,Gilgit-Baltistan,Gilgit
+909,4/21/2020,31,0,0,Local - Social Contact,Baluchistan,Quetta
+910,4/22/2020,9,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+911,4/22/2020,262,7,0,Unknown,Punjab,Lahore
+912,4/22/2020,2,0,5,Local - Social Contact,Sindh,Larkana
+913,4/22/2020,78,0,0,Tableeghi Jamaat,Sindh,Khairpur
+914,4/22/2020,12,0,10,Local - Social Contact,Sindh,Tando M. Khan
+915,4/22/2020,10,0,0,Local - Social Contact,Sindh,Jamshoro
+916,4/22/2020,6,0,0,Local - Social Contact,Sindh,Badin
+917,4/22/2020,2,0,0,Local - Social Contact,Sindh,Sanghar
+918,4/22/2020,4,0,0,Local - Social Contact,Sindh,Thatta
+919,4/22/2020,38,0,18,Local - Social Contact,Sindh,Hyderabad
+920,4/22/2020,155,2,32,Local - Social Contact,Sindh,Karachi
+921,4/22/2020,15,1,0,Local - Social Contact,Sindh,Sukkur
+922,4/22/2020,56,0,0,Local - Social Contact,Baluchistan,Quetta
+923,4/22/2020,7,0,3,Local - Social Contact,Gilgit-Baltistan,Gilgit
+924,4/22/2020,1,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+925,4/22/2020,2,0,0,Afghanistan,Khyber Pakhtunkhwa,Peshawar
+926,4/22/2020,2,0,0,Iran/Taftan,Khyber Pakhtunkhwa,Peshawar
+927,4/22/2020,0,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+928,4/22/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+929,4/22/2020,29,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+930,4/22/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+931,4/22/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+932,4/22/2020,17,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Malakand
+933,4/22/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+934,4/22/2020,6,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Battagram
+935,4/22/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Karak
+936,4/22/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Kurrum
+937,4/22/2020,39,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+938,4/22/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+939,4/22/2020,1,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+940,4/22/2020,1,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+941,4/22/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+942,4/22/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Shangla
+943,4/23/2020,242,3,0,Local - Social Contact,Sindh,Karachi
+944,4/23/2020,1,0,0,Local - Social Contact,Sindh,Khairpur
+945,4/23/2020,14,1,0,Local - Social Contact,Sindh,Shaheed Benazirabad
+946,4/23/2020,1,0,0,Local - Social Contact,Sindh,Sujawal
+947,4/23/2020,1,0,0,Local - Social Contact,Sindh,Sanghar
+948,4/23/2020,1,0,0,Local - Social Contact,Sindh,Ghotki
+949,4/23/2020,25,0,8,Local - Social Contact,Sindh,Sukkur
+950,4/23/2020,11,0,1,Local - Social Contact,Sindh,Larkana
+951,4/23/2020,1,0,1,Local - Social Contact,Sindh,Dadu
+952,4/23/2020,1,0,1,Local - Social Contact,Sindh,Jacobabad
+953,4/23/2020,0,0,17,Local - Social Contact,Sindh,Hyderabad
+954,4/23/2020,0,0,5,Local - Social Contact,Sindh,Tando M. Khan
+955,4/23/2020,10,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+956,4/23/2020,10,0,0,Local - Social Contact,Gilgit-Baltistan,Gilgit
+957,4/23/2020,4,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+958,4/23/2020,55,0,0,Unknown,Baluchistan,Quetta
+959,4/23/2020,14,1,3,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+960,4/23/2020,7,1,5,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+961,4/23/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+962,4/23/2020,0,0,6,Local - Social Contact,Khyber Pakhtunkhwa,Khyber
+963,4/23/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Bohmand
+964,4/23/2020,1,0,10,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+965,4/23/2020,0,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Swabi
+966,4/23/2020,3,0,10,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+967,4/23/2020,4,0,11,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+968,4/23/2020,3,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+969,4/23/2020,0,0,25,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+970,4/23/2020,4,0,4,Local - Social Contact,Khyber Pakhtunkhwa,Shangla
+971,4/23/2020,6,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Malakand
+972,4/23/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Chitral Lower
+973,4/23/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Chitral Upper
+974,4/23/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Bajaur
+975,4/23/2020,2,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+976,4/23/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+977,4/23/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Haripur
+978,4/23/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Tor Ghar
+979,4/23/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Kohistan upper
+980,4/23/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Kohistan Lower
+981,4/23/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Kolai Pallas
+982,4/23/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Battagram
+983,4/23/2020,2,0,15,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+984,4/23/2020,0,0,4,Local - Social Contact,Khyber Pakhtunkhwa,Hangu
+985,4/23/2020,2,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Karak
+986,4/23/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Kurrum
+987,4/23/2020,0,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Orakzai
+988,4/23/2020,0,0,11,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+989,4/23/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Lakki Marwat
+990,4/23/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,North Waziristan
+991,4/23/2020,2,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Dera Ismail Khan
+992,4/23/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Tank
+993,4/23/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,South Waziristan
+994,4/23/2020,23,0,0,Afghanistan,Khyber Pakhtunkhwa,Peshawar
+995,4/23/2020,8,0,0,International Passenger,Khyber Pakhtunkhwa,Peshawar
+996,4/23/2020,177,2,115,Unknown,Punjab,Lahore
+997,4/24/2020,10,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+998,4/24/2020,7,0,0,Local - Social Contact,Gilgit-Baltistan,Gilgit
+999,4/24/2020,243,2,24,Local - Social Contact,Sindh,Karachi
+1000,4/24/2020,8,0,0,Local - Social Contact,Sindh,Shaheed Benazirabad
+1001,4/24/2020,1,0,0,Local - Social Contact,Sindh,Badin
+1002,4/24/2020,1,0,0,Local - Social Contact,Sindh,Sanghar
+1003,4/24/2020,1,0,0,Local - Social Contact,Sindh,Tando Alahyar
+1004,4/24/2020,14,0,0,Local - Social Contact,Sindh,Sukkur
+1005,4/24/2020,1,0,0,Local - Social Contact,Sindh,Khairpur
+1006,4/24/2020,3,0,0,Local - Social Contact,Sindh,Larkana
+1007,4/24/2020,1,0,0,Local - Social Contact,Sindh,Kambar Shahdadkot
+1008,4/24/2020,0,0,18,Unknown,Sindh,Hyderabad
+1009,4/24/2020,49,2,0,Local - Social Contact,Baluchistan,Quetta
+1010,4/24/2020,0,0,56,International Passenger,Khyber Pakhtunkhwa,Peshawar
+1011,4/24/2020,66,4,7,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+1012,4/24/2020,4,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+1013,4/24/2020,4,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+1014,4/24/2020,7,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+1015,4/24/2020,0,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Swabi
+1016,4/24/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+1017,4/24/2020,6,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+1018,4/24/2020,4,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+1019,4/24/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+1020,4/24/2020,7,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Shangla
+1021,4/24/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Malakand
+1022,4/24/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Chitral Lower
+1023,4/24/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Chitral Upper
+1024,4/24/2020,0,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Bajaur
+1025,4/24/2020,6,0,2,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+1026,4/24/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Abbottabad
+1027,4/24/2020,84,3,20,Unknown,Punjab,Lahore
+1028,4/25/2020,217,3,20,Local - Social Contact,Sindh,Karachi
+1029,4/25/2020,13,0,0,Local - Social Contact,Sindh,Hyderabad
+1030,4/25/2020,1,0,0,Local - Social Contact,Sindh,Badin
+1031,4/25/2020,2,0,0,Local - Social Contact,Sindh,Shaheed Benazirabad
+1032,4/25/2020,6,0,0,Local - Social Contact,Sindh,Sanghar
+1033,4/25/2020,1,0,0,Local - Social Contact,Sindh,Tando M. Khan
+1034,4/25/2020,1,0,0,Local - Social Contact,Sindh,Tando Alahyar
+1035,4/25/2020,2,0,0,Local - Social Contact,Sindh,Ghotki
+1036,4/25/2020,12,0,0,Local - Social Contact,Sindh,Sukkur
+1037,4/25/2020,17,0,0,Local - Social Contact,Sindh,Larkana
+1038,4/25/2020,2,0,0,Local - Social Contact,Sindh,Kambar Shahdadkot
+1039,4/25/2020,2,0,0,Local - Social Contact,Sindh,Mirpurkhas
+1040,4/25/2020,11,0,0,Local - Social Contact,Sindh,Shikarpur
+1041,4/25/2020,9,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+1042,4/25/2020,1,0,0,Local - Social Contact,Gilgit-Baltistan,Gilgit
+1043,4/25/2020,65,2,0,Unknown,Baluchistan,Quetta
+1044,4/25/2020,41,4,7,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+1045,4/25/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+1046,4/25/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+1047,4/25/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+1048,4/25/2020,15,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+1049,4/25/2020,8,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Malakand
+1050,4/25/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Chitral Lower
+1051,4/25/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Chitral Upper
+1052,4/25/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Haripur
+1053,4/25/2020,6,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Battagram
+1054,4/25/2020,1,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+1055,4/25/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+1056,4/25/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+1057,4/25/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+1058,4/25/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Kohat
+1059,4/25/2020,0,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Hangu
+1060,4/25/2020,2,0,0,Afghanistan,Khyber Pakhtunkhwa,Peshawar
+1061,4/25/2020,475,5,0,Unknown,Punjab,Lahore
+1062,4/26/2020,12,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+1063,4/26/2020,340,3,48,Local - Social Contact,Sindh,Karachi
+1064,4/26/2020,7,0,0,Local - Social Contact,Sindh,Hyderabad
+1065,4/26/2020,1,0,8,Local - Social Contact,Sindh,Jamshoro
+1066,4/26/2020,2,0,0,Local - Social Contact,Sindh,Badin
+1067,4/26/2020,4,0,0,Local - Social Contact,Sindh,Naushero Feroz
+1068,4/26/2020,2,0,0,Local - Social Contact,Sindh,Thatta
+1069,4/26/2020,1,0,0,Local - Social Contact,Sindh,Sanghar
+1070,4/26/2020,2,0,6,Local - Social Contact,Sindh,Tando Alahyar
+1071,4/26/2020,17,0,0,Local - Social Contact,Sindh,Sukkur
+1072,4/26/2020,2,0,0,Local - Social Contact,Sindh,Khairpur
+1073,4/26/2020,1,0,0,Local - Social Contact,Sindh,Larkana
+1074,4/26/2020,1,0,0,Local - Social Contact,Sindh,Dadu
+1075,4/26/2020,2,0,0,Local - Social Contact,Sindh,Matiari
+1076,4/26/2020,1,0,0,Local - Social Contact,Sindh,Mirpurkhas
+1077,4/26/2020,120,3,0,Unknown,Punjab,Lahore
+1078,4/26/2020,71,5,0,Unknown,Khyber Pakhtunkhwa,Peshawar
+1079,4/26/2020,60,1,0,Unknown,Baluchistan,Quetta
+1080,4/26/2020,10,0,0,Local - Social Contact,Gilgit-Baltistan,Gilgit
+1081,4/26/2020,4,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+1082,4/27/2020,10,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+1083,4/27/2020,275,4,17,Local - Social Contact,Sindh,Karachi
+1084,4/27/2020,12,0,0,Local - Social Contact,Sindh,Hyderabad
+1085,4/27/2020,0,0,3,Local - Social Contact,Sindh,Jamshoro
+1086,4/27/2020,0,0,1,Local - Social Contact,Sindh,Badin
+1087,4/27/2020,0,0,6,Local - Social Contact,Sindh,Shaheed Benazirabad
+1088,4/27/2020,0,0,1,Local - Social Contact,Sindh,Naushero Feroz
+1089,4/27/2020,0,0,1,Local - Social Contact,Sindh,Sujawal
+1090,4/27/2020,1,0,3,Local - Social Contact,Sindh,Thatta
+1091,4/27/2020,0,0,2,Local - Social Contact,Sindh,Sanghar
+1092,4/27/2020,0,0,2,Local - Social Contact,Sindh,Tando M. Khan
+1093,4/27/2020,8,0,2,Local - Social Contact,Sindh,Ghotki
+1094,4/27/2020,4,0,0,Local - Social Contact,Sindh,Sukkur
+1095,4/27/2020,23,0,2,Local - Social Contact,Sindh,Khairpur
+1096,4/27/2020,12,0,2,Local - Social Contact,Sindh,Larkana
+1097,4/27/2020,3,0,10,Local - Social Contact,Sindh,Dadu
+1098,4/27/2020,0,0,1,Local - Social Contact,Sindh,Umerkot
+1099,4/27/2020,2,0,0,Local - Social Contact,Sindh,Matiari
+1100,4/27/2020,1,0,0,Local - Social Contact,Sindh,Jacobabad
+1101,4/27/2020,72,3,9,Unknown,Baluchistan,Quetta
+1102,4/27/2020,3,0,1,Local - Social Contact,Khyber Pakhtunkhwa,Nowshera
+1103,4/27/2020,51,4,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+1104,4/27/2020,6,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Malakand
+1105,4/27/2020,2,1,0,Local - Social Contact,Khyber Pakhtunkhwa,Bajaur
+1106,4/27/2020,1,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Charsadda
+1107,4/27/2020,4,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mardan
+1108,4/27/2020,3,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Swat
+1109,4/27/2020,8,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Buner
+1110,4/27/2020,7,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Lower
+1111,4/27/2020,5,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Dir Upper
+1112,4/27/2020,5,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Chitral Lower
+1113,4/27/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Chitral Upper
+1114,4/27/2020,9,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Mansehra
+1115,4/27/2020,7,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Battagram
+1116,4/27/2020,2,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Kurram
+1117,4/27/2020,5,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Bannu
+1118,4/27/2020,194,10,0,Local - Social Contact,Punjab,Lahore
+1119,4/27/2020,2,0,0,Local - Social Contact,Gilgit-Baltistan,Gilgit
+1120,4/28/2020,16,0,0,Local - Social Contact,Islamabad Capital Territory,ISlamabad
+1121,4/28/2020,187,5,0,Local - Social Contact,Punjab,Lahore
+1122,4/28/2020,335,0,0,Local - Social Contact,Sindh,Karachi
+1123,4/28/2020,10,0,0,Local - Social Contact,Gilgit-Baltistan,Gilgit
+1124,4/28/2020,176,0,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+1125,4/28/2020,6,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad
+1126,4/29/2020,36,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+1127,4/29/2020,234,3,0,Local - Social Contact,Punjab,Lahore
+1128,4/29/2020,337,8,208,Local - Social Contact,Sindh,Karachi
+1129,4/29/2020,9,0,0,Local - Social Contact,Sindh,Hyderabad
+1130,4/29/2020,7,0,0,Local - Social Contact,Sindh,Shaheed Benazirabad
+1131,4/29/2020,14,0,0,Local - Social Contact,Sindh,Sukkur
+1132,4/29/2020,13,0,0,Local - Social Contact,Sindh,Khairpur
+1133,4/29/2020,13,0,0,Local - Social Contact,Sindh,Larkana
+1134,4/29/2020,1,0,0,Local - Social Contact,Sindh,Dadu
+1135,4/29/2020,7,0,0,Local - Social Contact,Sindh,Shikarpur
+1136,4/29/2020,121,0,0,Local - Social Contact,Baluchistan,Quetta
+1137,4/29/2020,3,0,0,Local - Social Contact,Gilgit-Baltistan,Gilgit
+1138,4/29/2020,153,8,0,Local - Social Contact,Khyber Pakhtunkhwa,Peshawar
+1139,4/30/2020,16,0,0,Local - Social Contact,Islamabad Capital Territory,Islamabad
+1140,4/30/2020,279,3,0,Local - Social Contact,Punjab,Lahore
+1141,4/30/2020,229,12,0,Local - Social Contact,Sindh,Karachi
+1142,4/30/2020,5,0,0,Local - Social Contact,Sindh,Hyderabad
+1143,4/30/2020,1,0,0,Local - Social Contact,Sindh,Jamshoro
+1144,4/30/2020,1,0,0,Local - Social Contact,Sindh,Thatta
+1145,4/30/2020,1,0,0,Local - Social Contact,Sindh,Naushero Feroz
+1146,4/30/2020,4,0,0,Local - Social Contact,Sindh,Sanghar
+1147,4/30/2020,3,0,0,Local - Social Contact,Sindh,Sukkur
+1148,4/30/2020,6,0,0,Local - Social Contact,Sindh,Dadu
+1149,4/30/2020,1,0,0,Local - Social Contact,Sindh,Matiari
+1150,4/30/2020,1,0,0,Local - Social Contact,Sindh,Mirpurkhas
+1151,4/30/2020,34,0,0,Local - Social Contact,Sindh,Shikarpur
+1152,4/30/2020,2,0,0,Local - Social Contact,Sindh,Jacobabad
+1153,4/30/2020,75,0,0,Local - Social Contact,Baluchistan,Quetta
+1154,4/30/2020,6,0,0,Local - Social Contact,Gilgit-Baltistan,Gilgit
+1155,4/30/2020,1,0,0,Local - Social Contact,Azad Jummu Kashmir,Muzaffarabad

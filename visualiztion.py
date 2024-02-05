@@ -41,7 +41,7 @@ plt.xticks(rotation=90)
 st.pyplot(fig)
 # grouping data on the base of province
 st.subheader("Data Groupby on the base of Provinces")
-province_data=df.groupby('Province',axis=0).sum()
+province_data=df.groupby('Province').sum()
 province_data=province_data.drop(columns={'Date','Travel_history','City'})
 province_data
 # Number of cases in each Province
